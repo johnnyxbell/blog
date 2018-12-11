@@ -1,3 +1,1 @@
-blog.johnnybell.io
-
-built with Gatsby 2 🚀🚀🚀
+Built with Gatsby 2 🚀🚀🚀
