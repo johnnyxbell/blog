@@ -8,7 +8,7 @@ category: "StackShare"
 tags:
   - "StackShare"
   - "Tech"
-description: "You've decided its time for a new role, cool we've all been there. If you happen to work in tech in the Bay Area this process is not as easy at it sounds..."
+description: "Soooo we at StackShare have launched something amazing, You can now leave decisions about what tech you chose and why… To find out what its all about it head over..."
 ---
 ![decisions.jpg](./decisions.jpg)
 
